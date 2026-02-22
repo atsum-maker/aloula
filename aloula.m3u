@@ -1,10 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AlAoula" tvg-name="Al Aoula" group-title="Maroc",Al Aoula (Oficial)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-
-#EXTINF:-1 tvg-id="AlAoula" tvg-name="Al Aoula" group-title="Maroc",Al Aoula (EasyBroadcast - sin token)
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="AlAoula" tvg-name="Al Aoula" group-title="Maroc",Al Aoula 240p (EasyBroadcast)
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="AlAoula" tvg-name="Al Aoula" group-title="Maroc",Al Aoula 480p (EasyBroadcast)
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks.m3u8?token=n3OXD1xpCfsqbPnphLhZhgRDyUqF65sbQ0WvYDVCi88&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm&expires=1771777741
